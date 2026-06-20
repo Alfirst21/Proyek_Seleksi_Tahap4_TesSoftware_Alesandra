@@ -21,7 +21,7 @@ Aplikasi ini bertindak sebagai pusat kendali bagi Admin Lab IR dengan fitur-fitu
 
 # Fungsi Utama
 1. Dashboard
-<img width="1903" height="867" alt="image" src="https://github.com/user-attachments/assets/7180e6e7-1090-4f87-8566-f3396733eaed" />
+<img width="1903" height="867" alt="image" src="./img/Dashboard.png" />
 
 - Pusat Informasi, memberikan gambaran ringkasan data secara real-time.
 - Monitoring Data Terkini, menampilkan tabel utama yang berisi daftar barang-barang di laboratorium
